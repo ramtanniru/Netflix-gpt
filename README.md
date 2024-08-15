@@ -2,9 +2,11 @@
 
 # Features
 - Login/Sign Up
+    - Authentication & Authorisation
     - Redirect to Browse page
 - Browse (after authentication)
     - Header
+    - Logout
     - Main movie
         - Trailer in BG
         - Title and description
